@@ -1,0 +1,14 @@
+img {
+  border-radius: 10%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #c0c8df;}
+
+.error-msg {
+  background-color: #f19696;
+}
